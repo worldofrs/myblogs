@@ -1,8 +1,8 @@
-const version = '20221226042813';
+const version = '20221226201448';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/myblogs/general/2016/08/29/example-post-three/","/myblogs/history/external%20sources/2016/08/28/example-post-two/","/myblogs/general/external%20sources/2016/08/27/example-post-one/","/myblogs/categories/","/myblogs/elements/","/myblogs/blog/","/myblogs/","/myblogs/manifest.json","/myblogs/offline/","/myblogs/assets/search.json","/myblogs/search/","/myblogs/assets/styles.css","/myblogs/thanks/","/myblogs/redirects.json","/myblogs/sitemap.xml","/myblogs/robots.txt","/myblogs/blog/page2/","/myblogs/feed.xml","/myblogs/assets/styles.css.map","/myblogs/assets/logos/logo.svg", "/myblogs/assets/default-offline-image.png", "/myblogs/assets/scripts/fetch.js"
+  return ["/myblogs/general/mystery/review/2022/12/26/what-you-hide-book-review/","/myblogs/categories/","/myblogs/elements/","/myblogs/blog/","/myblogs/","/myblogs/manifest.json","/myblogs/offline/","/myblogs/assets/search.json","/myblogs/search/","/myblogs/assets/styles.css","/myblogs/thanks/","/myblogs/redirects.json","/myblogs/sitemap.xml","/myblogs/robots.txt","/myblogs/feed.xml","/myblogs/assets/styles.css.map","/myblogs/assets/logos/logo.svg", "/myblogs/assets/default-offline-image.png", "/myblogs/assets/scripts/fetch.js"
   ]
 }
 
