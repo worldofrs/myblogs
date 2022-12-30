@@ -97,14 +97,14 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "description" # Site description and default description, also used in jekyll-seo-tag
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/myblogs"
-repo: "repo"
+# repo: "repo"
 email: "email"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
-# short_name: "Al" # The web application short name, defaults to the site title
+short_name: "Blogs" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -122,8 +122,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+#- title: Elements
+# url: /elements/
 - title: Blog
   url: /blog/
 - title: Categories
