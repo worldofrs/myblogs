@@ -10,8 +10,6 @@ feature_image:
 image: 
 ---
 
-
-
 Fake It Till You Break It is a light-hearted teen romance by Jenn P. Nguyen. The two main characters, Mia Le and Jake Adler, are neighbors and their moms are best friends. They’re always being dragged on dim sum brunch dates, joined vacations and even shared dentist trips and their moms are dying for them to become a couple; seriously, they even made the ship name Jakia for them. But, much to their moms’ dismay, Mia and Jake can’t stand each other.
 
 So they come up with an ingenious plan: they’re going to fake date each other to appease their overly involved mothers, and then break up so they won’t have to see each other ever again. 
