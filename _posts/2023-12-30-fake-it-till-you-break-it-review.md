@@ -1,5 +1,5 @@
 ---
-title: Fake It Till You Break It by
+title: Fake It Till You Break It by Jenn P. Nguyen
 categories: 
 - General
 - YA
