@@ -6,4 +6,3 @@ feature_text: |
 feature_image: 
 excerpt: "My Blogs"
 ---
-Hello World ...
