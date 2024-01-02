@@ -80,7 +80,7 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    values:
+    values: 
       layout: post # Set the default layout for posts
   -
     scope:
@@ -92,11 +92,11 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
-title: "My Blogs" # Site name or title, also used in jekyll-seo-tag
+title: "Book Out Below" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "description" # Site description and default description, also used in jekyll-seo-tag
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/myblogs"
+baseurl: "/myblog"
 # repo: "repo"
 email: "email"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
