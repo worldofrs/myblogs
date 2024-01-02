@@ -5,7 +5,7 @@ categories:
 - Romance
 - Review
 excerpt: |
- **SPOILERS AHEAD**
+ *SPOILERS AHEAD*
 feature_text: |
 feature_image: 
 image: 
