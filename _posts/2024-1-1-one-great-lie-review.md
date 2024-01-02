@@ -5,7 +5,7 @@ categories:
 - YA
 - Literary Fiction
 - Review
-excerpt: | ★★★★
+excerpt: | 
 feature_text: |
 feature_image: 
 image: 
