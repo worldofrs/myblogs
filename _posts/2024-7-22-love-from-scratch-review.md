@@ -1,9 +1,9 @@
 ---
-title: One Great Lie by Deb Caletti
+title: Love From Scratch by Kaitlyn Hll
 categories: 
 - General
 - YA
-- Literary Fiction
+- Baking
 - Review
 excerpt: | 
 feature_text: |
@@ -12,18 +12,17 @@ image:
 ---
 
 
-I originally thought this book would be like the standard romance novels I’ve read: girl meets boy, boy helps girl, boy falls in love girl, boy and girl are together. While that structure that I’ve witnessed over the years still holds quite true in this context, I was wonderfully surprised by the plot lines in the book that not only made the book more nuanced but made it a life altering read. 
+Reese Camden is spending her summer before her freshman year of college working at Friends of Flavor as a marketing intern, a food channel that has different chefs (i.e. Friends) leading different cooking shows. Reese has been a big fan of FoF since her freshman year of high school, and is gunning for the fall internship available for one person at the end of the summer. Enter Benny: charming, confident, and a culinary aficionado, he’s the culinary intern at FoF who also wants the coveted fall internship. Reese plans to never cross paths with him and his flirtatious tendencies after they meet but is mightily disappointed when they are paired up for an impromptu show, where the two interns work together to create a dish. The show ends up being a huge success, and just like that Benny and Reese are thrown into the limelight, together, much to Reese’s dismay. It seems that avoiding her flamboyant, albeit charming co-star and not catching feelings may be a lot harder than Reese anticipated…
 
-The book follows Charlotte Hodges, a fresh high school graduate who loves to write. When she finds that she’s won a scholarship to study with one of the modern literary greats Luca Bruni on his private island in Venice, she’s overjoyed. Her need to write runs in her blood: her ancestor Isabela di Angelo wrote poetry and wrote The Verses, a collection of poetry that has been with her family for 500 years. However, all that is known about her is that she was the lover of the famed poet of the time Antonio Tasso. Charlotte hopes that she can figure out more about her ancestor and figure out if is, indeed, the author of a very famous poem.
+I was given this book by one of my close friends, who took the time to annotate the book with her thoughts and feelings. She’s not a romance reader by any stretch of the imagination, so I was flattered that she read the book anyway since she thought I would enjoy it. That being said, I tried my best to separate her thoughts from my own, though they coincided a bit. 
 
-What starts as an enlightening, eye-opening experience turns into something darker and murkier than Charlotte ever expected. Not only does the island La Calamita where they are stationed have a dark, looming past, Luca Bruni is not all that he seems, and many girls leave, including Charlotte, who grows uncomfortable with his preying. Charlotte works with Dante, a fellow book lover, and his historian professor to uncover more of Isabella di Angelo, whose story is just beginning even though it happened hundreds of years ago.
+I thought this was a cute story with a lot of potential, but it fell flat for me in a few places. When I saw that there were culinary/baking aspects to the story, I was excited to read about all of the delicious food they made and the imagery that comes with it. To my dismay, I found that those tasty, mouthwatering descriptions of the dishes that they created were reduced to short paragraphs, even when the cooking scenes were pages long. While I understand that this is a romance book first and foremost, I would’ve liked more subplot as it would’ve added more depth to the story overall. 
 
-This book touches on the “separating art from the artist” issue. While you may not condone someone’s action, can’t you still support their content without supporting the person? Additionally, Caletti uses clever parallels to signify the universal struggle of women through the ages struggling to get their voices heard amidst an oppressive patriarchy.
+Additionally, I was surprised to see the themes of feminism reiterated throughout the novel. As a young woman working in a male dominated industry putting herself online, Reese is faced with trolls and sexist male coworkers who don’t seem to take her or her ideas seriously. This is a major tenet of the book since it refers to a negative experience with a guy she dated years ago. This was bittersweet for me: on one hand, I’m glad that the book mentioned discussed such pertinent issues of today’s society, but I felt as if the trauma that Reese faced years ago was so that she could bond and become closer to Benny. This is problematic for a variety of reasons, one of which is that it is unhealthy for a relationship to be based solely off of trauma and hurt from the past. 
 
-It not only inspires women to be brave and express themselves, but shows the importance of making sure your voice is heard. That being said, the beginning did seem to drag a little bit. It was a lot of setup before the program started detailing her life before it was irrevocably changed. While I do feel it was necessary, it took awhile for me to get through. It could give readers the wrong impression that the whole book is that way on when it’s only a small portion of the book and might deter them from reading this book which discusses some important topics. 
+Despite this, I kept reading and I thought it was…kind of boring. The second half of the book was terribly predictable, with Reese and Benny having a falling out and then making up since they realized that they were both wrong and that they really, really missed each other (can you hear the sarcasm in my voice?). Normally, I love stories like this, but this was so painfully basic it was kind of a struggle to get through the book.
 
-If you’re looking for a book from the literary fiction canon suitable for teens and young adults with all the elements consistent with YA, definitely check out One Great Lie by Deb Caletti. You won’t regret it. 
-
+Don’t waste your time on this book. There are a bunch of really cute, really scrumptious culinary books out there that are worth your while.
 
 
 
