@@ -1,8 +1,8 @@
 ---
-title: About My Blogs
+title: About Book Out Below!
 feature_text: |
-  ## My Blogs
+  ## Book Out Below!
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: 
-excerpt: "My Blogs"
+excerpt: "Book Out Below!"
 ---
