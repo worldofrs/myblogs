@@ -96,7 +96,7 @@ title: "Book Out Below" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "description" # Site description and default description, also used in jekyll-seo-tag
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/myblog"
+baseurl: "/myblogs"
 # repo: "repo"
 email: "email"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
