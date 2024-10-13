@@ -1,10 +1,11 @@
 ---
-title: The Someday Daughter by Ellen O'Clover
+title: 5 romance books that have the STEM trope
 categories: 
 - General
 - Romance
-- Family Dynamics
-- Growth
+- Book Recommendations
+- STEM
+- Girl-boss
 excerpt: |
 feature_text: |
 feature_image: 
@@ -12,11 +13,25 @@ image:
 ---
 
 
-Audrey St. Vrain has grown up to be a person she never chose to be. Years before she was born, her mother, Camilla St. Vrain, published the revolutionary self-help book The Someday Daughter, encouraging women to be kind themselves as they would to their own hypothetical daughters. Most would assume that Audrey and Camilla have the perfect mother-daughter relationship, but it is far from it – she feels like a pawn in her mom’s career plan rather than her daughter, being sent to boarding school in the sixth grade and all. Before she heads off to college, she is determined to create her own identity, and that starts by going to the prestigious medical program at UPenn with her boyfriend Ethan before she goes off in the fall to study at John Hopkins. However, when Camilla asks her to go on a promotional tour for the book’s 25th anniversary, nothing this summer is going the way Audrey planned. She’s stuck with her mother for the summer – maybe now the chance she and Audrey learn to fit into each other’s lives, just as they are.
+Are you in the mood for a story where the girl is a certified girl-boss with some romance on the side? Here are some of my personal favorites where the female protagonist is a steminist that will be sure to give you butterflies.
 
-I’ve been kind of busy lately, and my life’s felt like a blur, so this book was a nice change of pace reminding me to really appreciate my family and those around me. Audrey’s mom is famous, but unlike most, her mom’s success basically coincides with her existence. Imagine your legacy, your conception being anticipated by not just your parents and those close, but the whole entire world? Honestly, it’s no surprise that their relationship is strained, at least on Audrey’s end. It’s kind of a recipe for disaster – unmet expectations + uncontrollable circumstances? Forget about it. I would resent my mom if she sent me off to boarding school and used me to promote her business. It’s why I was with Audrey from the get go, dreading every interaction with her mom alongside her. I wanted to stomp away like a petulant teenager. However, slowly but surely, they’re relationship starts to grow stronger, and watching (or reading, in this case) it happen is a very beautiful thing. There are secrets between them (not to spoil anything) and watching them learn how to be around each other is sometimes painful but very heartwarming. I hated Camilla A LOT less by the time I reached the end of the book, maybe even liked her.
+1. My Mechanical Romance by Alexene Farol Follmuth
 
-Audrey is very relatable, in my opinion, especially as someone who also likes to control all the unknowns and be sure about everything, down to the tee. I like her a lot, and loved watching her fall in love with Silas, one of three interns from American University, her mom’s alma mater of course, on tour for the summer helping with filming and videography. It was genuine, heartfelt, unforced, one of the better slow-burns I’ve read, which is saying something considering the book is only 319 pages. You just can’t help but root for two such likable characters, especially his dug Puddles. I’m not a dog person (don’t come for me), but even I found her absolutely adorable through the fibers of the page. Audrey won’t come to terms for her feelings for Silas, but it’s obviously very clear that she has them…even though he’s not her type, she can’t help but feel on edge and in-her-feels when around him. 
+The story revolves around Bel Maier, a senior in high school who never had a plan but somehow ended up at the prestigious Essex Academy. After she completes a physics assignment hastily, Bel is recommended by her teacher to join the robotics team, where she meets Teo Luna, soccer star, son of tech mogul Mateo Luna, and academic powerhouse who's looking for a final member to round out his team. Even while inexperienced, Bel makes the team, but it isn’t without backlash. None of the guys (even the one girl) are showing her any respect and she and Teo keep butting heads. However, as they’re both forced to spend time as Teo shows her the ropes and they work to build their robot, unsurprisingly, feelings emerge. But will their personality differences keep them apart?
 
-Overall, I enjoyed this book. It was a much needed reminder that not everything is as serious as it seems and that you WILL be okay, even though sometimes, it doesn’t feel like it. And if there’s an absolutely, positively, adorable dog? Well then what are you waiting for?!
 
+2. The Code for Love and Heartbreak by Jillian Cantor
+
+An adaptation of Emma by Jane Austen, protagonist Emma Woodhouse is sure to capture your hearts. Emma can count on numbers; people…not so much, which is why as co-president of the coding club, she decides to pitch the idea of creating an app that mathematically matches people based on compatibility metrics. Her co-president, George, is not a fan, but Emma decides to create a prototype of the app to sway him. 
+
+3. Love Decoded by Jennifer Yen
+
+Love Decoded follows Gigi Wong, the sister of James Wong from Yen’s debut? novel A Taste for Love (if you know, you know). Gigi wants to stand out, but that’s hard when everyone in her school is perfect. She decides to create Quizlr, an app that opens up a chat room between two people deemed most compatible in an effort to help the new girl make friends and to submit to an app contest. It seems like a great idea…yet something goes awry, and Gigi is forced to confront her feelings about life, compatibility, and love.
+
+4. Not Here to Be Liked by Michelle Quach
+
+Eliza Quan wants to be the Editor-in-Chief of her school newspaper, The Bugle. However, she’s given some competition when Len DiMartile decides to run against her. When he ends up getting the position instead, Eliza writes an essay that ends up going viral. She’s now a controversial figure — some believe that she’s using misogyny as an excuse for her failure to capture the position, while other believe she is a feminist queen. Whether she wanted to or not, Eliza starts a feminist movement in her school, and is reluctant to be civil to Len. However, the more time she spends with Len, the more she starts falling for him… While this one book doesn’t have a clear girls-in-stem trope, I believe Eliza’s spunk and determination earn her a spot on this list as an honoree steminist (because she totally would be if she weren’t so busy on her school newspaper) anyway.
+
+5. The Quantum Weirdness of the Almost Kiss by Amy Noelle Parks
+
+Caleb and Evie are best friends, and as most of these stories go, Caleb has had a crush on Evie for a long time. Now, he knows that Evie isn’t ready for romance — she’s busy with math and her anxiety — but secretly thought that when she was ready, it would be with him, the best friend. But Evie is feeling braver, and that means she’s ready to give love a go…but with the new cute gifted math student. Caleb is horrified and realizes that he’s never going to win her heart when there’s a mysterious stranger in the equation, so he decides to go online and talk to her via anonymity, an attempt to capture her heart. But as time goes on, Evie is just more confused because she doesn't know who she likes more: Caleb, or the anonymous stranger online…
